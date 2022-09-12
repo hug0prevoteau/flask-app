@@ -1,5 +1,4 @@
 from flask import Flask, request
-import requests
 import socket
 import pandas as pd
 import json
